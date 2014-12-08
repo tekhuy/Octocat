@@ -1,1 +1,1 @@
-Upstream remote is used for the main file from which all users will push and pull from
+What is meant by upstream?

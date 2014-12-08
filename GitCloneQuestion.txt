@@ -1,1 +1,1 @@
-Git clone makes a copy of the repository locally
+What does cloning do?
