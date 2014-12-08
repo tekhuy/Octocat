@@ -1,1 +1,1 @@
-Git clone makes a copy of the repository locally
+Git clone makes a copy of the repository locally.
